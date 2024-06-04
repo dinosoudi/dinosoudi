@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 
 ![Mi Imagen](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true)
 
+### Technologies and Tools
+- **Languages:** Python, Java, C#, etc.
+- **Tools:** Git, Visual Studio Code, etc.
+
+### Proyectos Destacados
+- [UAMI Carrera](https://github.com/dinosoudi/Juego-UAMI.git): Game about a student from the UAM university.
+- [Pong](https://github.com/dinosoudi/Pong.git): Descripción breve.
+
