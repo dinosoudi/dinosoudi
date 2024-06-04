@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amfimfodes@gmail.com 
 - ⚡ Fun fact: most of my pixel art was making wallpapers in paint
 
-![Mi Imagen](https://drive.google.com/file/d/1K5VDJuGnRk5_dAF2aujrx8YhQCK2mDzm/view?usp=sharing)
+![Mi Imagen](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true)
 
