@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 
 - [AI](https://github.com/dinosoudi/AI.git)
 ![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20220721.png?raw=true)
+
 ![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20221139.png?raw=true)
 
