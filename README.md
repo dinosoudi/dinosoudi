@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 - **Tools:** Git, Visual Studio Code, etc.
 
 ### Featured Proyects
-- [UAMI Carrera](https://github.com/dinosoudi/Juego-UAMI.git): Game about a student from the UAM university. Yu can play it in: [UAMI on web](https://soudi.itch.io/uami-carrera)
+- [UAMI Carrera](https://github.com/dinosoudi/Juego-UAMI.git): Game about a student from the UAM university. You can play it in: [UAMI on web](https://soudi.itch.io/uami-carrera)
 ![Image](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/Captura%20de%20pantalla%202024-06-04%20215030.png?raw=true)
 ![Image](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/Captura%20de%20pantalla%202024-06-04%20215022.png?raw=true)
-- [Pong](https://github.com/dinosoudi/Pong.git): The clasic game pong witch I learn unity. You can play it in: [Pong on web](https://soudi.itch.io/pong)
 
+- [Pong](https://github.com/dinosoudi/Pong.git): The clasic game pong witch I learn unity. You can play it in: [Pong on web](https://soudi.itch.io/pong)
+![Image](https://github.com/dinosoudi/Pong/blob/main/Assets/Captura%20de%20pantalla%202024-06-04%20192557.png?raw=true)
+![Image](https://github.com/dinosoudi/Pong/blob/main/Assets/Captura%20de%20pantalla%202024-06-04%20192944.png?raw=true)
+
+- [AI](https://github.com/dinosoudi/AI.git)
+![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20220721.png?raw=true)
+![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20221139.png?raw=true)
 
