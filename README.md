@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amfimfodes@gmail.com 
 - ⚡ Fun fact: most of my pixel art was making wallpapers in paint
 
-![Mi Imagen](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true)
+
+![Image](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true)
 
 ### Technologies and Tools
 - **Languages:** Python, Java, C#, etc.
 - **Tools:** Git, Visual Studio Code, etc.
 
-### Proyectos Destacados
+### Featured Proyects
 - [UAMI Carrera](https://github.com/dinosoudi/Juego-UAMI.git): Game about a student from the UAM university. Yu can play it in: [UAMI on web](https://soudi.itch.io/uami-carrera)
+![Image]([https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/Captura%20de%20pantalla%202024-06-04%20214912.png?raw=true))
+![Image]([https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/escena%20final%202.png?raw=true](https://github.com/dinosoudi/Juego-UAMI/blob/main/Assets/Pixel%20Art/Captura%20de%20pantalla%202024-06-04%20215030.png?raw=true))
 - [Pong](https://github.com/dinosoudi/Pong.git): The clasic game pong witch I learn unity. You can play it in: [Pong on web](https://soudi.itch.io/pong)
 
