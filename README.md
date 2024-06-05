@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ### Proyectos Destacados
 - [UAMI Carrera](https://github.com/dinosoudi/Juego-UAMI.git): Game about a student from the UAM university. Yu can play it in: [UAMI on web](https://soudi.itch.io/uami-carrera)
-- [Pong](https://github.com/dinosoudi/Pong.git): The clasic game pong witch I learn unity. You can play it in: [Pong on web](https://soudi.itch.io/uami-carrera)
+- [Pong](https://github.com/dinosoudi/Pong.git): The clasic game pong witch I learn unity. You can play it in: [Pong on web](https://soudi.itch.io/pong)
 
