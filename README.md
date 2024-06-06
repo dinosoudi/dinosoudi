@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Video Games, AI and Web programming using agile programming like Scrum
 - 🤔 I’m looking for help with CSS 
 - 💬 Ask me about Unity, Scripts in C#, Create Pixel Art and Optimizacion for Video Games
-- 📫 How to reach me: amfimfodes@gmail.com 
+- 📫 How to reach me: rubiolucasivanomar@gmail.com 
 - ⚡ Fun fact: most of my pixel art was making wallpapers in paint
 
 
