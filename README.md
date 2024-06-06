@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 - 😄 I'm student in the UAM iztapalapa
 - 🔭 I’m currently working on a Chatbot and a number classifier
-- 🌱 I’m currently learning about databases in MySQL and web programming in HTML,CSS and JavaScript
-- 👯 I’m looking to collaborate on Video Games, AI and Web programming 
+- 🌱 I’m currently learning about agile programming DevOps and web programming in HTML,CSS and JavaScript
+- 👯 I’m looking to collaborate on Video Games, AI and Web programming using agile programming like Scrum
 - 🤔 I’m looking for help with CSS 
 - 💬 Ask me about Unity, Scripts in C#, Create Pixel Art and Optimizacion for Video Games
 - 📫 How to reach me: amfimfodes@gmail.com 
