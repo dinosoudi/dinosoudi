@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!!! 👋
 
 <!--
 **dinosoudi/dinosoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Image](https://github.com/dinosoudi/Pong/blob/main/Assets/Captura%20de%20pantalla%202024-06-04%20192557.png?raw=true)
 ![Image](https://github.com/dinosoudi/Pong/blob/main/Assets/Captura%20de%20pantalla%202024-06-04%20192944.png?raw=true)
 
-- [AI](https://github.com/dinosoudi/AI.git)
+- [AI](https://github.com/dinosoudi/AI.git): My personal project about AI was a Chatbot for the optica Flores in python.
 ![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20220721.png?raw=true)
 ![Image](https://github.com/dinosoudi/AI/blob/main/capturas/Captura%20de%20pantalla%202024-06-04%20221139.png?raw=true)
 
