@@ -88,10 +88,6 @@ A microservices-based solution for detecting spam messages on Twitch, developed 
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/TwitchSpamDetector/CoreApi)
 
 
-🎮 UAMI Carrera
-
-A 2D pixel-art game about a student at UAM, developed using Unity and C#.
-
 #### 🎮 UAMI Carrera
 A 2D pixel-art game about a student at UAM, developed using Unity and C#.
 
