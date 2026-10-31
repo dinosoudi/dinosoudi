@@ -59,24 +59,38 @@ Software Engineer with professional experience building backend applications, RE
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🌟 Featured Projects
+🌟 Featured Projects
 
-#### 🐛 Twitch Spam Detector
-A microservices-based solution for detecting spam messages on Twitch, developed with Java 25 and Spring Boot.
+☁️ AWS Notes System
 
-- Synchronous and asynchronous communication using REST and RabbitMQ.
-- Event-driven architecture and documented event contracts.
-- Local infrastructure with Docker Compose, networking, and service discovery.
-- CI/CD pipelines using Jenkins and Shared Libraries.
+A full-stack application built with Java 21, Spring Boot, and React, designed to explore cloud infrastructure and modern DevOps practices.
 
-#### ☁️ AWS Notes System
-A full-stack cloud application developed with Java 21, Spring Boot, and React.
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/dinosoudi/notas-backend)
 
-- Infrastructure as Code using Terraform.
-- AWS ECS Fargate, Application Load Balancer, SES, and Secrets Manager.
-- Observability using Prometheus and Grafana.
-- Performance testing with k6.
-- CI/CD with GitHub Actions and integration testing using Testcontainers.
+<details>
+  <summary>📸 View screenshots</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/dinosoudi/notas-backend/develop/screenshots/Captura%20de%20pantalla%202026-09-21%20181546.png" width="85%">
+    <img src="https://raw.githubusercontent.com/dinosoudi/notas-backend/develop/screenshots/Captura%20de%20pantalla%202026-09-21%20182834.png" width="85%">
+    <img src="https://raw.githubusercontent.com/dinosoudi/notas-backend/develop/screenshots/Captura%20de%20pantalla%202026-09-21%20182856.png" width="85%">
+    <img src="https://raw.githubusercontent.com/dinosoudi/notas-backend/develop/screenshots/Captura%20de%20pantalla%202026-09-21%20183344.png" width="85%">
+  </p>
+</details>
+
+
+
+🐛 Twitch Spam Detector
+
+<sub>🚧 IN PROGRESS</sub>
+
+A microservices-based solution for detecting spam messages on Twitch, developed using Java 25 and Spring Boot.
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/TwitchSpamDetector/CoreApi)
+
+
+🎮 UAMI Carrera
+
+A 2D pixel-art game about a student at UAM, developed using Unity and C#.
 
 #### 🎮 UAMI Carrera
 A 2D pixel-art game about a student at UAM, developed using Unity and C#.
